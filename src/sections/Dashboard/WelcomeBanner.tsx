@@ -41,4 +41,3 @@ export function WelcomeBanner() {
       <img src={Logo} alt="Logo" />
     </Welcome>
   );
-}
