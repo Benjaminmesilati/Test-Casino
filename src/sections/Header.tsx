@@ -87,8 +87,9 @@ export default function Header() {
           )}
           <TokenSelect />
           <UserButton />
+          {/* Adding Discord link */}
+          <a href="https://discord.gg/d5M6bTS9">Join our Discord</a>
         </div>
       </StyledHeader>
     </>
   )
-}
